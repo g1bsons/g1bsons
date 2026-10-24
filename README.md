@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Gibson Smith, a student at Brigham Young University-Idaho interested in all things computers and software including: computer science, data science, web development, machine learning, and software development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning more about typescript and how to utilize it in full stack development with a personal project called The Linked List.
+- My goals are to be able to create enough of a foundational understand in the world of software and programming to add value to companies from all over.
+- Ask me about running shoes, cars or knives and I'll be talking your ear off for hours!
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: Python, C#, HTML, CSS, JS, TS, SQL
+- Skills: React, Linux, Tailwind, Node
 
 ## Let's Connect!
 
