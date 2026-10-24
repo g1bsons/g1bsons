@@ -38,7 +38,7 @@ I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](www.linkedin.com/in/gibson-c-smith) profile
+- Here is my [Personal Site](https://www.gibsoncsmith.com/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
